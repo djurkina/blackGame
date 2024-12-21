@@ -1,0 +1,2 @@
+BOT_TOKEN = '7517478638'
+DATABASE_FILE = "dice_game.db"
